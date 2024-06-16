@@ -1,8 +1,9 @@
 ---
-title: Welcome to Quartz
-created: 2024-06-16 19:53
-updated: 2024-06-16 19:57
+tags:
+  - publish
+aliases: []
+created: 2024-06-16 22:49
+updated: 2024-06-16 23:13
 ---
-# Index
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Nesoy Memex
+- 여기는 Nesoy의 Memex입니다.

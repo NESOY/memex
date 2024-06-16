@@ -12,6 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
+      // { provider: 'google', tagId: '<your-google-tag>' }
       provider: "plausible",
     },
     locale: "en-US",
