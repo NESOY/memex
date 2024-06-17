@@ -12,8 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      // { provider: 'google', tagId: '89701804' }
-      provider: "plausible",
+      provider: 'google', tagId: 'G-77RLYYQX7Y'
     },
     locale: "en-US",
     baseUrl: "nesoy.github.io/memex",
