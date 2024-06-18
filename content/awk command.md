@@ -4,7 +4,7 @@ tags:
   - publish
 aliases: []
 created: 2022-11-28-13:50
-updated: 2024-06-18 21:04
+updated: 2024-06-18 21:07
 ---
 # Awk 명령어
 > Awk scans each input file for lines that match any of a set of patterns specified literally in prog or in one or more files specified as -f progfile.
@@ -19,7 +19,7 @@ updated: 2024-06-18 21:04
 5) Hari History 89
 ```
 
-### 3번째 항목과 4번째 항목을 출력하고 싶은 경우는 어떻게 해야할까?
+### 3번째 항목과 4번째 항목을 출력하고 싶은 경우
 ```shell
 # awk '{print $3 "\t" $4}' marks.txt
 Physics 80
@@ -29,7 +29,7 @@ English 85
 History 89
 ```
 
-### Rahul가 포함한 라인을 출력하고 싶은 경우?
+### Rahul가 포함한 라인을 출력하고 싶은 경우
 ```shell
 # awk '/Rahul/' marks.txt
 2) Rahul Maths 90
