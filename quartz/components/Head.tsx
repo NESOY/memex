@@ -38,13 +38,15 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {/*google */}
         <meta name="google-site-verification" content="IXpOhNNiHEbF0pTWgKmZlorGdSTMtU5ZEC4ODC74vkA" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1829817529831781" crossOrigin="anonymous"></script>
         {css.map((href) => (
           <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
         ))}
         {js
-          .filter((resource) => resource.loadTime === "beforeDOMReady")
-          .map((res) => JSResourceToScriptElement(res, true))}
+        .filter((resource) => resource.loadTime === "beforeDOMReady")
+        .map((res) => JSResourceToScriptElement(res, true))}
       </head>
     )
   }
