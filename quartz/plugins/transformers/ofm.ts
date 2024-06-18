@@ -625,7 +625,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                     class: "external-embed",
                     allow: "fullscreen",
                     frameborder: 0,
-                    width: "600px",
+                    // https://github.com/jackyzha0/quartz/issues/1167
+                    width: "80%", 
+                    maxWidth: "600px",
                     height: "350px",
                     src: playlistId
                       ? `https://www.youtube.com/embed/${videoId}?list=${playlistId}`
@@ -638,7 +640,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                     class: "external-embed",
                     allow: "fullscreen",
                     frameborder: 0,
-                    width: "600px",
+                    // https://github.com/jackyzha0/quartz/issues/1167
+                    width: "80%", 
+                    maxWidth: "600px",
                     height: "350px",
                     src: `https://www.youtube.com/embed/videoseries?list=${playlistId}`,
                   }
