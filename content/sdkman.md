@@ -5,13 +5,13 @@ tags:
   - publish
 aliases: []
 created: 2022-08-02-17:17
-updated: 2024-06-28 16:15
+updated: 2024-06-28 16:28
 ---
 # Sdkman
 ## How to install
 ```bash
 curl -s "https://get.sdkman.io" | bash
-source "/Users/kakao/.sdkman/bin/sdkman-init.sh
+source "$HOME/.sdkman/bin/sdkman-init.sh"
 ```
 
 ## How to use
