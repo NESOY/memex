@@ -5,7 +5,7 @@ tags:
   - publish
 aliases: []
 created: 2022-08-02-17:17
-updated: 2024-06-28 16:28
+updated: 2024-06-28 17:14
 ---
 # Sdkman
 ## How to install
