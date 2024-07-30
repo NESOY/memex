@@ -5,7 +5,7 @@ tags:
   - publish
 aliases: []
 created: 2022-08-02-17:17
-updated: 2024-06-28 17:14
+updated: 2024-07-30 09:15
 ---
 # Sdkman
 ## How to install
@@ -37,6 +37,9 @@ sdk default java 17.0.3-tem
 # .sdkmanrc을 통해 쉽게 java version 변경이 가능하다.
 sdk env init
 ```
+
+## See Also
+- [[asdf]]
 
 ## Reference
 - https://sdkman.io

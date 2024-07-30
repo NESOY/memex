@@ -4,7 +4,7 @@ tags:
   - tool/raycast
 aliases: []
 created: 2024-06-17 10:47
-updated: 2024-07-26 00:11
+updated: 2024-07-30 09:18
 ---
 # [[Raycast]] Dynamic placeholders
 ## Use-case

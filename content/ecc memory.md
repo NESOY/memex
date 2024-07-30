@@ -3,7 +3,7 @@ tags:
   - computer/hardware
   - publish
 created: 2023-10-31 22:53
-updated: 2024-06-16 23:12
+updated: 2024-07-29 21:44
 ---
 # Ecc memory
 - Error Correction Code Memory

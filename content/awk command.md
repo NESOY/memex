@@ -4,7 +4,7 @@ tags:
   - publish
 aliases: []
 created: 2022-11-28-13:50
-updated: 2024-06-18 21:07
+updated: 2024-07-30 09:18
 ---
 # Awk 명령어
 > Awk scans each input file for lines that match any of a set of patterns specified literally in prog or in one or more files specified as -f progfile.
@@ -36,7 +36,7 @@ History 89
 ```
 
 ## See Also
-- [[sed command]]
+- [[sed command|sed]]
 
 ## Reference
 - <https://zzsza.github.io/development/2017/12/20/linux-6/>
