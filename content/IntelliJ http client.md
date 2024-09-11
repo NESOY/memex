@@ -5,7 +5,7 @@ tags:
 aliases:
   - IntelliJ http
 created: 2024-07-30 13:47
-updated: 2024-07-30 15:48
+updated: 2024-09-03 13:07
 ---
 # IntelliJ http client
 - IntelliJ Ultimate에서 제공되는 http client 기능이다.
@@ -17,6 +17,7 @@ updated: 2024-07-30 15:48
 GET http://example.com
 Authorization: Basic username password 
 ```
+
 ### In-place variables
 ```
 @myhost = example.org 
