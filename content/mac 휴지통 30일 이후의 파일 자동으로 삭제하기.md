@@ -4,7 +4,7 @@ tags:
   - tool/mac
 aliases: []
 created: 2024-08-01 14:17
-updated: 2024-08-01 14:25
+updated: 2024-11-12 10:11
 ---
 # Mac 휴지통 30일 이후의 파일 자동으로 삭제하기
 ## How to setting

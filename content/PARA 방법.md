@@ -5,7 +5,7 @@ tags:
 aliases:
   - PARA Method
 created: 2024-02-01 23:57
-updated: 2024-07-29 21:46
+updated: 2024-11-12 10:11
 ---
 # PARA 방법
 - 네 가지로 정보를 분류하여 정보를 정리하는 방법

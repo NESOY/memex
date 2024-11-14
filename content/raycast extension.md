@@ -4,7 +4,7 @@ tags:
   - tool/raycast
 aliases: []
 created: 2024-07-23 17:52
-updated: 2024-08-29 20:51
+updated: 2024-11-12 10:11
 ---
 # Raycast extension
 ## How to contribute

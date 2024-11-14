@@ -4,7 +4,7 @@ tags:
   - tool/software
 aliases: []
 created: 2024-07-29 16:06
-updated: 2024-08-26 16:03
+updated: 2024-11-12 10:11
 ---
 # Karabiner
 - A powerful and stable keyboard customizer for macOS.

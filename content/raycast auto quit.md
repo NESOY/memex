@@ -4,7 +4,7 @@ tags:
   - tool/raycast
 aliases: []
 created: 2024-07-18 13:23
-updated: 2024-07-30 09:21
+updated: 2024-11-12 10:11
 ---
 # Raycast auto quit
 - 어플리케이션을 특정 시간동안 사용하지 않으면 자동으로 종료되는 기능

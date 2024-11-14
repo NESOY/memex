@@ -5,7 +5,7 @@ tags:
 aliases:
   - IntelliJ http
 created: 2024-07-30 13:47
-updated: 2024-09-03 13:07
+updated: 2024-11-12 10:11
 ---
 # IntelliJ http client
 - IntelliJ Ultimate에서 제공되는 http client 기능이다.

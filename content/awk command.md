@@ -4,7 +4,7 @@ tags:
   - publish
 aliases: []
 created: 2022-11-28-13:50
-updated: 2024-07-30 09:18
+updated: 2024-11-12 10:11
 ---
 # Awk 명령어
 > Awk scans each input file for lines that match any of a set of patterns specified literally in prog or in one or more files specified as -f progfile.

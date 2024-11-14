@@ -4,7 +4,7 @@ tags:
   - tool/mac
 aliases: []
 created: 2024-06-13 20:22
-updated: 2024-08-01 14:23
+updated: 2024-11-12 10:11
 ---
 # Mac 특정 확장자를 특정 앱으로 열기
 ## How to setting

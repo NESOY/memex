@@ -5,7 +5,7 @@ tags:
   - publish
 aliases: 
 created: 2024-08-26 18:37
-updated: 2024-08-29 20:55
+updated: 2024-11-12 10:11
 ---
 # Kustomize
 ## How to install
