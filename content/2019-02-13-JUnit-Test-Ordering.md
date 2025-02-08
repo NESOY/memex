@@ -9,7 +9,7 @@ aliases:
 ---
 
 
-![[public/Assets/logo/JUnit.png]]
+![[Assets/logo/JUnit.png]]
 
 
 ## 들어가며
@@ -20,10 +20,10 @@ aliases:
 ## JUnit Test 순서 제어하기
 
 ### Example
-![[public/Assets/posts/20190213/1.png]]
+![[Assets/posts/20190213/1.png]]
 
 ### Result
-![[public/Assets/posts/20190213/2.png]]
+![[Assets/posts/20190213/2.png]]
 
 ### How to use?
 ```java

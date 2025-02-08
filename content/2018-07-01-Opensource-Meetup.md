@@ -7,9 +7,9 @@ aliases:
   - /articles/2018-07/Opensource-Meetup
 ---
 
-![[public/Assets/posts/20180701/1.png]]
-![[public/Assets/posts/20180701/2.png]]
-![[public/Assets/posts/20180701/3.png]]
+![[Assets/posts/20180701/1.png]]
+![[Assets/posts/20180701/2.png]]
+![[Assets/posts/20180701/3.png]]
 
 # 회색지대 - 이상과 현실 - 오픈소스 저작권 신정규님
 - Microsoft가 Github를 인수

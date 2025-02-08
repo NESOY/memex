@@ -6,7 +6,7 @@ date: 2017-12-13
 aliases: 
   - /articles/2017-12/CleanCode-Function
 ---
-![[public/Assets/posts/20171211/cleancode.jpg]]
+![[Assets/posts/20171211/cleancode.jpg]]
 
 # 함수(Function)
 

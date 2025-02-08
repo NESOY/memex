@@ -7,19 +7,19 @@ aliases:
   - /articles/2019-01/ElasticSearch-Install
 ---
 
-![[public/Assets/logo/elastic.png]]
+![[Assets/logo/elastic.png]]
 
 ## Elastic Search 다운로드
 - <https://www.elastic.co/kr/downloads>
 
-![[public/Assets/posts/20190110/1.png]]
+![[Assets/posts/20190110/1.png]]
 - DEB
     - 데비안 계열 Unix
 - RPM
     - 레드햇 계열 Unix
 
 ### Elastic Search 실행파일
-![[public/Assets/posts/20190110/2.png]]
+![[Assets/posts/20190110/2.png]]
 
 - `elasticsearch`
     - 실행 Script
@@ -36,22 +36,22 @@ aliases:
     - `-p 파일명` : Elastic Search의 프로세스 id를 파일명으로 지정된 파일에 저장
 
 #### Background 실행
-![[public/Assets/posts/20190110/3.png]]
+![[Assets/posts/20190110/3.png]]
 
 #### Elastic Search Log 확인
-![[public/Assets/posts/20190110/4.png]]
+![[Assets/posts/20190110/4.png]]
 
 ### Elastic Search 정보 확인
 > curl -XGET http://localhost:9200
 - Default Port : 9200
 
-![[public/Assets/posts/20190110/5.png]]
+![[Assets/posts/20190110/5.png]]
 
 
 ### Background Elastic Search 종료
 > kill PID
 
-![[public/Assets/posts/20190110/6.png]]
+![[Assets/posts/20190110/6.png]]
 
 #### 자주 사용하는 `kill -9`에 대해
 - `kill -9`는 좋지 않습니다.
@@ -65,7 +65,7 @@ aliases:
 ### Elastic Process ID 저장
 > bin/elasticsearch -d -p es.pid
 
-![[public/Assets/posts/20190110/7.png]]
+![[Assets/posts/20190110/7.png]]
 
 
 ### [Elastic 실행 Option](https://www.elastic.co/guide/en/elasticsearch/reference/current/jvm-options.html)
@@ -111,7 +111,7 @@ aliases:
 ```
 
 ### [Elastic Log](https://www.elastic.co/guide/en/elasticsearch/reference/current/logging.html)
-![[public/Assets/posts/20190110/8.png]]
+![[Assets/posts/20190110/8.png]]
 
 - `elasticsearch.log`
     - ElasticSearch 실행 로그
@@ -124,7 +124,7 @@ aliases:
 
 
 ### Elastic Data
-![[public/Assets/posts/20190110/9.png]]
+![[Assets/posts/20190110/9.png]]
 
 - 실제로 색인된 문서의 검색 데이터가 저장되는 공간
 - 별도로 설정하지 않으면 Default Path로 `data`에 저장됩니다.

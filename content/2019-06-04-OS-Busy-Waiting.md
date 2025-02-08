@@ -7,7 +7,7 @@ aliases:
   - /articles/2019-06/OS-Busy-Waiting
 ---
 
-![[public/Assets/logo/os.jpg]]
+![[Assets/logo/os.jpg]]
 
 
 ## Busy Waiting이란?

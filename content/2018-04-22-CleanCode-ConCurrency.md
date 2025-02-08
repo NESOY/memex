@@ -6,7 +6,7 @@ date: 2018-04-22
 aliases: 
   - /articles/2018-04/CleanCode-ConCurrency
 ---
-![[public/Assets/posts/20171211/cleancode.jpg]]
+![[Assets/posts/20171211/cleancode.jpg]]
 
 # 동시성(Concurrency)
 

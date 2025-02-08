@@ -7,7 +7,7 @@ aliases:
   - /articles/2020-05/RestTemplate
 ---
 
-![[public/Assets/logo/spring.png]]
+![[Assets/logo/spring.png]]
 
 ## RestTemplate
 - Spring에서 제공하는 Rest Client

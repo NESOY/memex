@@ -8,7 +8,7 @@ aliases:
   - /articles/2017-10/Django-Start
 ---
 
-![[public/Assets/posts/20171021/django.png]]
+![[Assets/posts/20171021/django.png]]
 
 ## Django란?
 > The web framework for perfectionists with deadlines.
@@ -34,7 +34,7 @@ $ pyenv virtualenv 3.5.2 nemo
 $ pyenv activate nemo
 ```
 
-![[public/Assets/posts/20171021/pyenv-activate.png]]
+![[Assets/posts/20171021/pyenv-activate.png]]
 
 #### autoenv 가상화 자동화하기
 
@@ -45,7 +45,7 @@ echo “+++++++++++++++++++++++++++++++++++++++++++++++”
 pyenv activate nemo
 ```
 
-![[public/Assets/posts/20171021/autoenv-result.png]]
+![[Assets/posts/20171021/autoenv-result.png]]
 
 ### django 설치하기
 
@@ -63,7 +63,7 @@ $ django-admin startproject nemo
 ```
 
 #### Project Tree
-![[public/Assets/posts/20171021/django-project.png]]
+![[Assets/posts/20171021/django-project.png]]
 
 - `manage.py`: Django 프로젝트와 다양한 방법으로 상호작용 하는 커맨드라인의 유틸리티 입니다.
 - `__init__.py`: Python 으로 하여금 이 디렉토리를 패키지 처럼 다루라고 알려주는 용도의 단순한 빈 파일입니다.
@@ -77,7 +77,7 @@ $ python manage.py runserver
 ```
 
 #### 결과화면
-![[public/Assets/posts/20171021/django-runserver.png]]
+![[Assets/posts/20171021/django-runserver.png]]
 
 ## Reference
 - <https://docs.djangoproject.com/ko/1.11/intro/tutorial01/>

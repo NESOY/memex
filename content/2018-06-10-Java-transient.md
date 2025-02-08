@@ -8,7 +8,7 @@ aliases:
 ---
 
 
-![[public/Assets/logo/Java.jpg]]
+![[Assets/logo/Java.jpg]]
 
 # 들어가며
 - `transient`키워드를 이해하기 위해서는 Serialize에 대한 이해가 필요합니다.
@@ -54,16 +54,16 @@ class Member implements Serializable {
 
 ### Result
 - 아래의 이미지 처럼 직렬화가 잘 된 것을 확인할 수 있습니다.
-![[public/Assets/posts/20180610/1.png]]
+![[Assets/posts/20180610/1.png]]
 
 
 ### 이름에 transient keyword를 추가하면 어떨까요?
 
-![[public/Assets/posts/20180610/2.png]]
+![[Assets/posts/20180610/2.png]]
 
 - 결과를 확인해 보니 field는 유지되지만 null값이 대입되는 것을 확인할 수 있었습니다.
 
-![[public/Assets/posts/20180610/3.png]]
+![[Assets/posts/20180610/3.png]]
 
 
 ## 주의해야할 점은 없을까요?

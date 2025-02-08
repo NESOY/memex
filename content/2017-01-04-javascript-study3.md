@@ -8,7 +8,7 @@ aliases:
 ---
 
 # **Javascript**
-![[public/Assets/logo/javascript.png]]
+![[Assets/logo/javascript.png]]
 
 ## 5. 참조 타입
 - #### 객체 리터럴 표기법
@@ -192,7 +192,7 @@ alert(values); // 1,2,3,4,5
   {% highlight javascript %}
   var myRegExp = /regexr/i;
   {% endhighlight %}
-  ![[public/Assets/posts/20170104/regExp.PNG]]
+  ![[Assets/posts/20170104/regExp.PNG]]
 
   - ##### 참고 사이트
     [http://poiemaweb.com/js-regexp](http://poiemaweb.com/js-regexp)

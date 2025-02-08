@@ -7,7 +7,7 @@ aliases:
   - /articles/2019-01/ElasticSearch-Document
 ---
 
-![[public/Assets/logo/elastic.png]]
+![[Assets/logo/elastic.png]]
 
 ## ElasticSearch의 데이터 구조
 - Index, Type, Document 단위로 구성되어있다.
@@ -20,11 +20,11 @@ aliases:
     - `_all` 명령어로 모든 인덱스를 표현할 수 있다.
     - Ver 6.0에서는 `_all`는 기본적으로 비활성화되어 있다.
 
-![[public/Assets/posts/20190115/1.png]]
+![[Assets/posts/20190115/1.png]]
 
 ### [데이터 Insert](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-index_.html)
 
-![[public/Assets/posts/20190115/2.png]]
+![[Assets/posts/20190115/2.png]]
 
 #### Query
 - http://localhost:9200/{index}/{type}/{id}
@@ -59,14 +59,14 @@ curl -XPUT http://localhost:9200/books/book/1 -d
 - id가 없다면 `PUT`으로 Document 생성이 불가능
 - 임의의 id Document를 생성하기 위해선 `POST`여야만 정상적으로 실행
 
-![[public/Assets/posts/20190115/3.png]]
+![[Assets/posts/20190115/3.png]]
 
 
 
 ### [데이터 Delete](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-delete.html)
 - Document, Type, Index 단위로 삭제할 수 있다.
 
-![[public/Assets/posts/20190115/4.png]]
+![[Assets/posts/20190115/4.png]]
 
 ```shell
 {
@@ -85,17 +85,17 @@ curl -XPUT http://localhost:9200/books/book/1 -d
 ```
 
 #### 삭제된 Document를 다시 조회하는 경우
-![[public/Assets/posts/20190115/5.png]]
+![[Assets/posts/20190115/5.png]]
 
 #### 삭제된 Document id에 다시 Document를 추가하는 경우
-![[public/Assets/posts/20190115/6.png]]
+![[Assets/posts/20190115/6.png]]
 
 - Document단위로 데이터를 삭제하더라도 Document의 Metadata는 여전히 남아있음을 알 수 있다.
     - Type, Index 단위로 삭제하는 경우 Metadata까지 모두 삭제된다.
 - 실제로 삭제되는 것이 아니라 Document의 `_source`에 입력된 데이터 값을 Empty값으로 업데이트되고 검색되지 않게 상태 변경.
 
 #### Index 단위 삭제 후 URL로 접근하면 404반환
-![[public/Assets/posts/20190115/7.png]]
+![[Assets/posts/20190115/7.png]]
 
 
 ### [데이터 Update](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-update.html)
@@ -104,7 +104,7 @@ curl -XPUT http://localhost:9200/books/book/1 -d
 curl -XPOST http://localhost:9200/{index}/{type}/{doc_id}/_update -d '{update 명령어}'
 ```
 
-![[public/Assets/posts/20190115/8.png]]
+![[Assets/posts/20190115/8.png]]
 
 - `_update` API는 Document의 구조를 변경하는 것이 아니다.
     - 기존의 저장된 Document 값을 읽어 입력한 명령을 토대로 새로 변경된 Document 내용을 만들고 입력하는 방식
@@ -115,7 +115,7 @@ curl -XPOST http://localhost:9200/{index}/{type}/{doc_id}/_update -d '{update �
 #### 파일을 통한 데이터 처리
 - `-d @파일이름`
 
-![[public/Assets/posts/20190115/9.png]]
+![[Assets/posts/20190115/9.png]]
 
 ### [데이터 Bulk](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html)
 - `--data-binary @파일명`

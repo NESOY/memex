@@ -8,7 +8,7 @@ aliases:
 ---
 
 # **Javascript**
-![[public/Assets/logo/javascript.png]]
+![[Assets/logo/javascript.png]]
 
 ## 3. 언어의 기초
 
@@ -128,7 +128,7 @@ alert(person.name); // NESOY
   foo();
   {% endhighlight %}
 
-![[public/Assets/posts/20170103/execution-context.PNG]]
+![[Assets/posts/20170103/execution-context.PNG]]
 
   - ##### Global Execution Context 생성
   - ##### 함수가 호출 될때마다 Stack의 모양으로 쌓인다.
