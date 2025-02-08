@@ -5,11 +5,23 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'nesoy/nesoy.github.io',
+        repoId: 'MDEwOlJlcG9zaXRvcnk3NzUxOTM5NQ==',
+        category: 'Comments',
+        categoryId: 'DIC_kwDOBJ7aI84Cmt2C',
+        mapping: 'pathname'
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/nesoy",
+      Twitter: "https://x.com/nesoy_kwon",
+      LinkedIn: "https://www.linkedin.com/in/young-jae-kwon-3514b3141/",
     },
   }),
 }
