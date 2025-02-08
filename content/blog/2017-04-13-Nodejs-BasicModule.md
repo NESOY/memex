@@ -7,7 +7,7 @@ aliases:
   - ../articles/2017-04/Nodejs-BasicModule
 ---
 
-![[content/assets/posts/20170413/1.PNG]]
+![[Assets/posts/20170413/1.PNG]]
 
 ## Basic Module(기본 모듈)
 
@@ -54,11 +54,11 @@ aliases:
 #### 결과
 - `process.env`
 
-![[content/assets/posts/20170413/2.PNG]]
+![[Assets/posts/20170413/2.PNG]]
 
 - `process.arch, process.platform`
 
-![[content/assets/posts/20170413/3.PNG]]
+![[Assets/posts/20170413/3.PNG]]
 
 ### Timer
 - 지연 동작 : `setTimeout`

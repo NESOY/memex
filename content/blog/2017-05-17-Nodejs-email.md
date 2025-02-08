@@ -7,7 +7,7 @@ aliases:
   - ../articles/2017-05/Nodejs-email
 ---
 
-![[content/assets/posts/20170413/1.PNG]]
+![[Assets/posts/20170413/1.PNG]]
 
 ## NodeMailer
 - `Nodejs`에서 e-mail을 쉽게 보낼 수 있게 도와주는 Module.
@@ -52,7 +52,7 @@ transporter.sendMail(mailOption, function(err, info) {
 ### Setting
 - Error : Invalid Login
 
-![[content/assets/posts/20170517/1.PNG]]
+![[Assets/posts/20170517/1.PNG]]
 
 - 보안 수준 낮은 앱 연결 허용하기 : <https://www.google.com/settings/security/lesssecureapps>
 
@@ -61,8 +61,8 @@ transporter.sendMail(mailOption, function(err, info) {
 
 - Server
 
-![[content/assets/posts/20170517/2.PNG]]
+![[Assets/posts/20170517/2.PNG]]
 
 - Gmail
 
-![[content/assets/posts/20170517/3.PNG]]
+![[Assets/posts/20170517/3.PNG]]

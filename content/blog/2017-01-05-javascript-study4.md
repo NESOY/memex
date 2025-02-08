@@ -8,7 +8,7 @@ aliases:
 ---
 
 # **Javascript**
-![[content/assets/logo/javascript.png]]
+![[Assets/logo/javascript.png]]
 
 - #### Function 타입
   - 함수는 객체이다.

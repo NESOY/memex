@@ -7,10 +7,10 @@ aliases:
   - ../articles/2019-10/Hbase-Data-Model
 ---
 
-![[content/assets/logo/hbase.png]]
+![[Assets/logo/hbase.png]]
 
 ## Hbase Data Model에 대해
-![[content/assets/posts/img/2019-10-02-13-39-21.png]]
+![[Assets/posts/img/2019-10-02-13-39-21.png]]
 - Hbase는 Data를 Table 형태로 저장한다.
 
 ### Tables
@@ -52,7 +52,7 @@ aliases:
 
 ## Example
 ### 논리적인 모습
-![[content/assets/posts/img/2019-10-02-16-11-07.png]]
+![[Assets/posts/img/2019-10-02-16-11-07.png]]
 - 중간중간 빈 공간을 볼 수 있다.
 - 하지만 실제로 저장할때에는 빈 공간은 생기지 않는다.
 
@@ -88,11 +88,11 @@ aliases:
 
 #### column Family : anchor
 
-![[content/assets/posts/img/2019-10-02-16-15-32.png]]
+![[Assets/posts/img/2019-10-02-16-15-32.png]]
 
 #### column Family : contents
 
-![[content/assets/posts/img/2019-10-02-16-15-45.png]]
+![[Assets/posts/img/2019-10-02-16-15-45.png]]
 
 
 ## Reference

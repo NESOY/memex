@@ -1,13 +1,10 @@
 ---
 title: Syntatic Sugar란?
-tags:
-  - Programming
 date: 2019-12-04
-aliases: 
-  - ../articles/2019-12/Syntactic-sugar
+tags: [Programming]
+aliases: [../articles/2019-12/Syntactic-sugar]
 ---
-
-## Syntatic Sugar란?
+# Syntatic Sugar
 - 프로그래밍 언어 차원에서 제공되는 논리적으로 간결하게 표현하는 것
 - 중복되는 로직을 간결하게 표현하기 위해 나타나게 되었다.
 

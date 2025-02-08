@@ -7,7 +7,7 @@ aliases:
   - ../articles/2017-04/HttpModule
 ---
 
-![[content/assets/posts/20170413/1.PNG]]
+![[Assets/posts/20170413/1.PNG]]
 
 ## HTTP Module
 - `var http = require('http');`

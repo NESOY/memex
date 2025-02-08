@@ -7,7 +7,7 @@ aliases:
   - ../articles/2017-01/Singleton-Pattern
 ---
 
-![[content/assets/logo/design-pattern.jpg]]
+![[Assets/logo/design-pattern.jpg]]
 
 # **Singleton Pattern**
 

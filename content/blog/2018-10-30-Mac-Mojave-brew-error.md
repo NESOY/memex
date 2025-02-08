@@ -9,7 +9,7 @@ aliases:
 ## 문제 발생..🔥
 - 기분 좋게 Mojave로 update한 이후에 brew가 말을 듣지 않는다..
 
-![[content/assets/posts/20181030/1.png]]
+![[Assets/posts/20181030/1.png]]
 
 ### Error Message
 ```shell
@@ -24,11 +24,11 @@ Error: Failure while executing; `git config --local --replace-all homebrew.priva
 $ xcode-select --install
 ```
 
-![[content/assets/posts/20181030/2.png]]
+![[Assets/posts/20181030/2.png]]
 
 ## 다시 시도해 보면..? 🧐
 
-![[content/assets/posts/20181030/3.png]]
+![[Assets/posts/20181030/3.png]]
 
 
 ## Reference

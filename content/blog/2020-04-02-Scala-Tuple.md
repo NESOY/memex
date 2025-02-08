@@ -7,7 +7,7 @@ aliases:
   - ../articles/2020-04/Scala-Tuple
 ---
 
-![[content/assets/logo/scala.png]]
+![[Assets/logo/scala.png]]
 
 ## Tuple란?
 - 고정된 크기의 elements를 포함하는 value라고 표현한다.

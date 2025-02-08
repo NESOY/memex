@@ -7,7 +7,7 @@ aliases:
   - ../articles/2018-07/Java-Handling-Exception
 ---
 
-![[content/assets/logo/Java.jpg]]
+![[Assets/logo/Java.jpg]]
 
 ## Exception catch 무시하지 않기
 - catch에서 아무 코드도 없는건 바람직하지 않습니다.
