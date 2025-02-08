@@ -1,7 +1,6 @@
 ---
 comments: false
 title: 
-aliases:
 ---
 # YoungJae Kwon
 - Republic of Korea

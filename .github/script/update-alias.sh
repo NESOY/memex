@@ -15,7 +15,7 @@ find "$TARGET_DIR" -type f -name "*.md" | while read -r file; do
         title="${BASH_REMATCH[4]}"
         
         # 생성할 aliases 값
-        alias_value="/articles/${year}-${month}/${title}"
+        alias_value="../articles/${year}-${month}/${title}"
 
         # 새로운 파일 내용을 저장할 변수
         new_content=""
