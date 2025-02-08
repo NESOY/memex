@@ -1,6 +1,5 @@
 ---
 title: Intellij에서 메인(Main)이 실행되지 않을 경우 해결방법.
-comments: true
 tags:
   - Intellij
 date: 2018-05-29

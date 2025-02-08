@@ -1,6 +1,5 @@
 ---
 title: Servlet Annotation
-comments: true
 tags:
   - Java
   - Servlet

@@ -1,6 +1,5 @@
 ---
 title: Coveralls 시작하기
-comments: true
 tags:
   - DevOps
   - Coveralls

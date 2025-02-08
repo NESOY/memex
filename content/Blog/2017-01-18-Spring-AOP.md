@@ -1,6 +1,5 @@
 ---
 title: Spring AOP
-comments: true
 tags:
   - Spring
 date: 2017-01-18

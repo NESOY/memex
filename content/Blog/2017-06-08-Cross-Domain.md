@@ -1,6 +1,5 @@
 ---
 title: 크로스 도메인(Cross Domain) 이슈
-comments: true
 tags:
   - Web
 date: 2017-06-08

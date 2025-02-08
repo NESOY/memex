@@ -1,6 +1,5 @@
 ---
 title: 웹 템플릿 엔진(Template Engine) 이란?
-comments: true
 tags:
   - Web
 date: 2017-03-06

@@ -1,6 +1,5 @@
 ---
 title: NodeJs의 path, File, Buffer
-comments: true
 tags:
   - NodeJs
   - Web

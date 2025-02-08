@@ -1,6 +1,5 @@
 ---
 title: Git .gitignore 적용하기
-comments: true
 tags:
   - Git
 date: 2017-01-26

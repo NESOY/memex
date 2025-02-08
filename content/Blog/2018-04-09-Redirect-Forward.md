@@ -1,6 +1,5 @@
 ---
 title: Redirect와 Forward의 차이에 대해
-comments: true
 tags:
   - Web
 date: 2018-04-09

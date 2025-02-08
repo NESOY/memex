@@ -1,6 +1,5 @@
 ---
 title: Intellij에서 Spring MVC 시작하기
-comments: true
 tags:
   - Spring
   - Intellij

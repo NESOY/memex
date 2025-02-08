@@ -1,6 +1,5 @@
 ---
 title: Jekyll Github에 올리기 & 테마 적용하기
-comments: true
 tags:
   - Jekyll
   - Github

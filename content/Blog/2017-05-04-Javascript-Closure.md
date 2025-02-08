@@ -1,6 +1,5 @@
 ---
 title: Javascript 클로져(Closure)란?
-comments: true
 tags:
   - Javascript
 date: 2017-05-04

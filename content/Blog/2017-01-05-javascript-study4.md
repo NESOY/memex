@@ -1,6 +1,5 @@
 ---
 title: Javascript Study4
-comments: true
 tags:
   - Javascript
 date: 2017-01-05

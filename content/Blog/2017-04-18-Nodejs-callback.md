@@ -1,6 +1,5 @@
 ---
 title: NodeJs의 callback hell, Async, Promise
-comments: true
 tags:
   - NodeJs
 date: 2017-04-18

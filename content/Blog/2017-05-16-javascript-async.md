@@ -1,6 +1,5 @@
 ---
 title: Javascript의 Arrow function, async
-comments: true
 tags:
   - Javascript
 date: 2017-05-16

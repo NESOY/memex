@@ -1,6 +1,5 @@
 ---
 title: NodeJs의 Json, XML
-comments: true
 tags:
   - NodeJs
   - JSON

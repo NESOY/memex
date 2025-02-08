@@ -1,6 +1,5 @@
 ---
 title: NodeJs의 Basic Module(기본 모듈)
-comments: true
 tags:
   - NodeJs
 date: 2017-04-13

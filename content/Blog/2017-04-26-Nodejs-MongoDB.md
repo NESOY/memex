@@ -1,6 +1,5 @@
 ---
 title: Nodejs MongoDB 연결하기, Mongoose
-comments: true
 tags:
   - NodeJs
   - MongoDB

@@ -1,6 +1,5 @@
 ---
 title: Nodejs의 인증(Authentication), Passport
-comments: true
 tags:
   - NodeJs
 date: 2017-04-30

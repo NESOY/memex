@@ -1,6 +1,5 @@
 ---
 title: Intellij War 추출하기
-comments: true
 tags:
   - Intellij
 date: 2017-01-10

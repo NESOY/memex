@@ -1,6 +1,5 @@
 ---
 title: Mongoose 활용하여 Array에 Add(Push), Delete(Remove) 하기
-comments: true
 tags:
   - MongoDB
   - Mongoose

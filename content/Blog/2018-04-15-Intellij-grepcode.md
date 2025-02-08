@@ -1,6 +1,5 @@
 ---
 title: Intellij Grep Console Plugin
-comments: true
 tags:
   - Intellij
 date: 2018-04-15

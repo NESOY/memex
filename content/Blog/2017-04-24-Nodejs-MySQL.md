@@ -1,6 +1,5 @@
 ---
 title: Nodejs MySQL 연결하기
-comments: true
 tags:
   - NodeJs
   - MySQL

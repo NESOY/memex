@@ -1,6 +1,5 @@
 ---
 title: Spring의 MVC & Front Controller Pattern
-comments: true
 tags:
   - Spring
   - Design Pattern

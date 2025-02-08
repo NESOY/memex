@@ -1,6 +1,5 @@
 ---
 title: Javascript Study2
-comments: true
 tags:
   - Javascript
 date: 2017-01-03

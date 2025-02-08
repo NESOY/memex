@@ -1,6 +1,5 @@
 ---
 title: Synchronous(동기) Vs Asynchronous(비동기)
-comments: true
 tags:
   - OS
 date: 2017-01-27

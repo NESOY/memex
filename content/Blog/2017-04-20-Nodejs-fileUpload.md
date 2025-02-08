@@ -1,6 +1,5 @@
 ---
 title: NodeJs의 파일 업로드(File Upload), Multipart 요청, formidable
-comments: true
 tags:
   - NodeJs
 date: 2017-04-20

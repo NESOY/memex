@@ -1,6 +1,5 @@
 ---
 title: Intellij 자동 코드 접기(Auto Code Folding) 해제하기.
-comments: true
 tags:
   - Intellij
 date: 2018-07-02

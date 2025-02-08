@@ -1,6 +1,5 @@
 ---
 title: Singleton Pattern(싱글턴 패턴)
-comments: true
 tags:
   - Design Pattern
 date: 2017-01-13

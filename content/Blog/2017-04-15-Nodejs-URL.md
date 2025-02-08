@@ -1,6 +1,5 @@
 ---
 title: NodeJs의 Stream, URL, QueryString, Cluster
-comments: true
 tags:
   - NodeJs
 date: 2017-04-15

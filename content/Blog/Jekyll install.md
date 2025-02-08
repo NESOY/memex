@@ -1,6 +1,5 @@
 ---
 title: Jekyll 설치하기
-comments: true
 date: 2016-12-28
 aliases:
   - /articles/2016-12/Install-Jekyll

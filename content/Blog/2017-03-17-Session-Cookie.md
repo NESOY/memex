@@ -1,6 +1,5 @@
 ---
 title: 쿠키(Cookie) 그리고 세션(Session)
-comments: true
 tags:
   - Web
   - Session

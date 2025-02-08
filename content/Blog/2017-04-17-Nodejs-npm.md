@@ -1,6 +1,5 @@
 ---
 title: NodeJs의 npm, nodemon, Module
-comments: true
 tags:
   - NodeJs
   - npm

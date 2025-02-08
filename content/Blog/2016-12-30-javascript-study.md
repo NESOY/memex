@@ -1,6 +1,5 @@
 ---
 title: Javascript Study
-comments: true
 date: 2016-12-30
 aliases:
   - /articles/2016-12/javascript-study

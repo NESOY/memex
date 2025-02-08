@@ -1,6 +1,5 @@
 ---
 title: NodeJs의 Post요청, PRG 패턴
-comments: true
 tags:
   - NodeJs
   - Design Pattern

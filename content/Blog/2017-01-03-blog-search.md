@@ -1,6 +1,5 @@
 ---
 title: 검색엔진에 블로그 내용 올리기
-comments: true
 tags:
   - Jekyll
   - Github

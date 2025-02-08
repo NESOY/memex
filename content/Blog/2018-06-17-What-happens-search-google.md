@@ -1,6 +1,5 @@
 ---
 title: Browser에서 Google.com을 검색하면 무슨 일이 발생하나요?
-comments: true
 tags:
   - Web
 date: 2018-06-17

@@ -1,6 +1,5 @@
 ---
 title: jQuery ready와 load의 차이점
-comments: true
 tags:
   - jQuery
 date: 2017-05-14

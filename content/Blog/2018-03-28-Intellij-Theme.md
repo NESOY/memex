@@ -1,6 +1,5 @@
 ---
 title: Intellij 테마(Theme) 적용하기
-comments: true
 tags:
   - Intellij
 date: 2018-03-28

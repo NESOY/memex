@@ -1,6 +1,5 @@
 ---
 title: Java의 직렬화(Serialize)란?
-comments: true
 tags:
   - Java
 date: 2018-04-18

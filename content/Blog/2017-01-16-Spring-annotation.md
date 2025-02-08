@@ -1,6 +1,5 @@
 ---
 title: Spring Annotation(@Required,@Autowired,@Qulifier,@Resource)
-comments: true
 tags:
   - Spring
 date: 2017-01-16

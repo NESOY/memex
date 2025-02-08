@@ -1,6 +1,5 @@
 ---
 title: Java Annotation이란?
-comments: true
 tags:
   - Java
 date: 2018-04-11

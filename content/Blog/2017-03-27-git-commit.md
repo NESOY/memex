@@ -1,6 +1,5 @@
 ---
 title: Git 커밋(Commit)을 쉽게 다루어 보자
-comments: true
 tags:
   - Git
 date: 2017-03-27

@@ -1,6 +1,5 @@
 ---
 title: Intellij Git 연동하기
-comments: true
 tags:
   - Intellij
   - Git

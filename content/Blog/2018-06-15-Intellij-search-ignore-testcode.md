@@ -1,6 +1,5 @@
 ---
 title: Intellij 검색에서 Test Code 제외하기
-comments: true
 tags:
   - Intellij
 date: 2018-06-15
