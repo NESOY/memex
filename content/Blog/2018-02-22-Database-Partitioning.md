@@ -5,13 +5,13 @@ tags:
 date: 2018-02-22
 ---
 
-![No Image](/assets/logo/database.jpg)
+![[assets/logo/database.jpg]]
 
 # Partitioning
 
 ## 배경
 
-![No Image](/assets/posts/20180222/1.png)
+![[assets/posts/20180222/1.png]]
 
 서비스의 크기가 점점 커지게 되면서 다양하고 많은 Table들이 존재하게 되었다.
 
@@ -45,7 +45,7 @@ VLDB(Very Large DBMS)`전체 DB가 하나의 DBMS에 다 들어가기 힘들어�
 - 손쉬운 관리 기법 제공 에 따른 관리 시간의 단축할 수 있다.
 - ex) 우편번호, 일별, 월별, 분기별 등 의 데이터에 적합하다.
 
-![No Image](/assets/posts/20180222/2.png)
+![[assets/posts/20180222/2.png]]
 
 ### List partitioning
 - 특정 Partition에 저장 될 Data에 대한 명시적 제어 가능하다.
@@ -53,7 +53,7 @@ VLDB(Very Large DBMS)`전체 DB가 하나의 DBMS에 다 들어가기 힘들어�
 - Multi-Column Partition Key 제공하기 힘들다.
 - ex) [한국, 일본, 중국 -> 아시아] [노르웨이, 스웨덴, 핀란드 -> 북유럽]
 
-![No Image](/assets/posts/20180222/3.png)
+![[assets/posts/20180222/3.png]]
 
 ### Composite partitioning
 - Composite Partition은 Partition의 Sub-Partitioning 을 말한다.
@@ -67,13 +67,13 @@ VLDB(Very Large DBMS)`전체 DB가 하나의 DBMS에 다 들어가기 힘들어�
 - 특정 Data가 어느 Hash Partition에 있는지 판단 불가
 - Hash Partition은 파티션을 위한 범위가 없는 데이터에 적합
 
-![No Image](/assets/posts/20180222/4.png)
+![[assets/posts/20180222/4.png]]
 
 ## 방법
 
 ### Horizontal Partitioning
 
-![No Image](/assets/posts/20180222/5.png)
+![[assets/posts/20180222/5.png]]
 
 #### Benefits
 - 데이터의 개수를 기준으로 나누어 Partitioning한다.
@@ -87,7 +87,7 @@ VLDB(Very Large DBMS)`전체 DB가 하나의 DBMS에 다 들어가기 힘들어�
 
 ### Vertical Partitioning
 
-![No Image](/assets/posts/20180222/6.png)
+![[assets/posts/20180222/6.png]]
 
 - 테이블의 컬럼을 기준으로 나누어 Partitioning한다.
 - 정규화하는 과정도 이와 비슷하다고 볼 수 있지만 Vertical Partitioning은 이미 정규화된 Data를 분리하는 과정이다.

@@ -4,7 +4,7 @@ tags:
   - CleanCode
 date: 2018-02-24
 ---
-![No Image](/assets/posts/20171211/cleancode.jpg)
+![[assets/posts/20171211/cleancode.jpg]]
 
 # 클래스(Class)
 

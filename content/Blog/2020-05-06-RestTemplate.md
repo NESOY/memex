@@ -5,7 +5,7 @@ tags:
 date: 2020-05-06
 ---
 
-![](/assets/logo/spring.png)
+![[assets/logo/spring.png]]
 
 ## RestTemplate
 - Spring에서 제공하는 Rest Client

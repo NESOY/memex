@@ -5,7 +5,7 @@ tags:
 date: 2018-06-01
 ---
 
-![No Image](/assets/logo/Java.jpg)
+![[assets/logo/Java.jpg]]
 
 # 정규식 표현(Regular Expression)이란?
 

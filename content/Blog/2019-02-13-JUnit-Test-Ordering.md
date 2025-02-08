@@ -7,7 +7,7 @@ date: 2019-02-13
 ---
 
 
-![No Image](/assets/logo/JUnit.png)
+![[assets/logo/JUnit.png]]
 
 
 ## 들어가며
@@ -18,10 +18,10 @@ date: 2019-02-13
 ## JUnit Test 순서 제어하기
 
 ### Example
-![No Image](/assets/posts/20190213/1.png)
+![[assets/posts/20190213/1.png]]
 
 ### Result
-![No Image](/assets/posts/20190213/2.png)
+![[assets/posts/20190213/2.png]]
 
 ### How to use?
 ```java

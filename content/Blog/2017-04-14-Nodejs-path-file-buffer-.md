@@ -7,7 +7,7 @@ tags:
   - Javascript
 date: 2017-04-14
 ---
-![No Image](/assets/posts/20170413/1.PNG)
+![[assets/posts/20170413/1.PNG]]
 
 ## 경로 다루기
 ### path

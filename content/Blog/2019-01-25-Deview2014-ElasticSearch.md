@@ -5,7 +5,7 @@ tags:
 date: 2019-01-25
 ---
 
-![No Image](/assets/logo/elastic.png)
+![[assets/logo/elastic.png]]
 
 ## ElasticSearch 이해와 성능 최적화 - 정호욱님
 ### ElasticSearch 이해
@@ -44,7 +44,7 @@ date: 2019-01-25
 
 #### ElasticSearch Shard replication
 
-![No Image](/assets/posts/20190125/1.png)
+![[assets/posts/20190125/1.png]]
 
 - Primary Shard를 먼저 생성 후 Replication Shard 생성
 - Replication Shard가 많으면 검색 성능이 향상
@@ -53,12 +53,12 @@ date: 2019-01-25
 
 
 
-![No Image](/assets/posts/20190125/2.png)
+![[assets/posts/20190125/2.png]]
 
 - Hash Partitioning으로 문서를 찾는 구조.
 - 요청을 받은 Node는 요청 Shard를 가진 Node에게 일을 위임
 
-![No Image](/assets/posts/20190125/3.png)
+![[assets/posts/20190125/3.png]]
 - Retrieve
     - `_id`로 문서를 가져오는 방식
 - Query & Fetch
@@ -185,7 +185,7 @@ date: 2019-01-25
 
 #### Bulk Indexing Flow
 
-![No Image](/assets/posts/20190125/4.png)
+![[assets/posts/20190125/4.png]]
 
 #### Shards
 - Data 분산을 위해 Shard 수를 늘린다

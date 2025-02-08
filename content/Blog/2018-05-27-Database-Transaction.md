@@ -5,7 +5,7 @@ tags:
 date: 2018-05-27
 ---
 
-![No Image](/assets/logo/database.jpg)
+![[assets/logo/database.jpg]]
 
 # 트랜잭션(Transaction)이란?
 - 트랜잭션(Transaction)은 데이터베이스의 완전성을 보장하기 위한 것입니다.

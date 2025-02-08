@@ -6,7 +6,7 @@ tags:
 date: 2017-10-24T00:00:00.000Z
 ---
 
-![No Image](/assets/posts/20171021/django.png)
+![[assets/posts/20171021/django.png]]
 
 # Django Template
 
@@ -15,7 +15,7 @@ date: 2017-10-24T00:00:00.000Z
 
   > App이름/emplate/App이름 라고 만들 필요 없이, 그냥 App이름/templates에 넣어도 되지 않을까? 만약 동일한 template 이름이 다른 어플리케이션에 있을 경우 Django 는 이 둘간의 차이를 구분하지 못합니다.
 
-![No Image](/assets/posts/20171024/1.png)
+![[assets/posts/20171024/1.png]]
 
 # 404 Error
 
@@ -62,7 +62,7 @@ def detail(request, question_id):
 
 ### html
 
-![No Image](/assets/posts/20171024/2.png)
+![[assets/posts/20171024/2.png]]
 
 ## URL 구역나누기
 
@@ -74,7 +74,7 @@ app_name = 'memos' # App 이름 선언
 
 ### html
 
-![No Image](/assets/posts/20171024/3.png)
+![[assets/posts/20171024/3.png]]
 
 # Reference
 

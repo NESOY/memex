@@ -6,7 +6,7 @@ tags:
 date: 2017-04-18
 ---
 
-![No Image](/assets/posts/20170413/1.PNG)
+![[assets/posts/20170413/1.PNG]]
 
 ## Call-Back, Call-Back hell
 - 비동기 함수 : 콜백 함수 사용
@@ -57,7 +57,7 @@ task1(function() {
 
 - 결과 화면
 
-![No Image](/assets/posts/20170418/1.PNG)
+![[assets/posts/20170418/1.PNG]]
 
 ## Async
 - 비동기 동작의 흐름 제어 모듈

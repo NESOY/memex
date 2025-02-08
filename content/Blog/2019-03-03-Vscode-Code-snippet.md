@@ -7,14 +7,14 @@ date: 2019-03-03
 
 ## Vscode Code Snippet 설정하기
 ### Code - Preference -> User Snippets
-![](/assets/posts/img/2019-03-03-23-52-02.png)
+![[assets/posts/img/2019-03-03-23-52-02.png]]
 
 
 ### 원하는 파일 형식에 추가하기
-![](/assets/posts/img/2019-03-03-23-54-49.png)
+![[assets/posts/img/2019-03-03-23-54-49.png]]
 
 #### Markdown 예시
-![](/assets/posts/img/2019-03-03-23-58-51.png)
+![[assets/posts/img/2019-03-03-23-58-51.png]]
 
 ### 자주 사용하는 표현을 Snippet으로 표현하기
 - markdown으로 쉽게 포스트 포맷 작성하기
@@ -42,7 +42,7 @@ date: 2019-03-03
 ### 만약 Markdown Snippet이 동작을 안하는 경우?
 - settings에 `[markdown`이라고 검색합니다.
 
-![](/assets/posts/img/2019-03-04-00-06-43.png)
+![[assets/posts/img/2019-03-04-00-06-43.png]]
 
 - 설정 파일에 아래 내용을 추가합니다.
 ```json

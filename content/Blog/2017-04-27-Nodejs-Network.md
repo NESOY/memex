@@ -6,7 +6,7 @@ tags:
 date: 2017-04-27
 ---
 
-![No Image](/assets/posts/20170413/1.PNG)
+![[assets/posts/20170413/1.PNG]]
 
 ## TCP Module
 - `var net = require('net');`

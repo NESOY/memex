@@ -5,11 +5,11 @@ tags:
 date: 2018-09-13
 ---
 
-![No Image](/assets/logo/os.jpg)
+![[assets/logo/os.jpg]]
 
 
 ## Concurrency와 Parallelism의 차이에 대해
-![NO Image](/assets/posts/20180913/1.png)
+![[assets/posts/20180913/1.png]]
 
 ### 병행성([Concurrency](https://en.wikipedia.org/wiki/Concurrent_computing))
 > 동시에 실행되는 것처럼 보이는 것.

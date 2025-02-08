@@ -5,7 +5,7 @@ tags:
 date: 2018-07-16
 ---
 
-![No Image](/assets/logo/Java.jpg)
+![[assets/logo/Java.jpg]]
 
 ## Exception catch 무시하지 않기
 - catch에서 아무 코드도 없는건 바람직하지 않습니다.

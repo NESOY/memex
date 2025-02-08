@@ -4,7 +4,7 @@ tags:
   - CleanCode
 date: 2018-02-05
 ---
-![No Image](/assets/posts/20171211/cleancode.jpg)
+![[assets/posts/20171211/cleancode.jpg]]
 
 # 오류 처리
 

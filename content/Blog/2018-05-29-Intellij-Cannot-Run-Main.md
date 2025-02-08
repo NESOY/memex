@@ -6,7 +6,7 @@ tags:
 date: 2018-05-29
 ---
 
-![No Image](/assets/logo/Intellij.png)
+![[assets/logo/Intellij.png]]
 
 
 ## 문제 정의
@@ -16,20 +16,20 @@ date: 2018-05-29
 
 #### `.java`이지만 원래 보이던 형태가 아닌 경우
 
-![No Image](/assets/posts/20180529/1.png)
+![[assets/posts/20180529/1.png]]
 
 #### 화살표가 없는 경우
 
-![No Image](/assets/posts/20180529/2.png)
+![[assets/posts/20180529/2.png]]
 
 ## 해결 방법
 - **Mark Directory As -> Source Root** 를 지정하면 됩니다.
 
-![No Image](/assets/posts/20180529/3.png)
+![[assets/posts/20180529/3.png]]
 
 ## 결과 화면
 
-![No Image](/assets/posts/20180529/4.png)
+![[assets/posts/20180529/4.png]]
 
 
 ## Reference

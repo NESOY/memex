@@ -3,7 +3,7 @@ title: Intellij Code Convention 자동화하기
 date: 2018-09-28
 ---
 
-![No Image](/assets/logo/Intellij.png)
+![[assets/logo/Intellij.png]]
 
 
 ## 들어가며
@@ -16,11 +16,11 @@ date: 2018-09-28
 - <https://plugins.jetbrains.com/plugin/7642-save-actions>
 
 
-![No Image](/assets/posts/20180928/1.png)
+![[assets/posts/20180928/1.png]]
 
 ## How to use? 🎮
 
-![No Image](/assets/posts/20180928/2.png)
+![[assets/posts/20180928/2.png]]
 
 ### Option
 - save가 발생할 경우에 Activate
@@ -34,7 +34,7 @@ date: 2018-09-28
 
 ### 정렬이 필요없는 파일은 어떻게 하나요?
 
-![No Image](/assets/posts/20180928/3.png)
+![[assets/posts/20180928/3.png]]
 
 - exclude 파일에 추가하시면 됩니다.
 
@@ -44,7 +44,7 @@ date: 2018-09-28
 ### 자동 import Setting
 - `Editor -> General -> Auto import`
 
-![No Image](/assets/posts/20180928/4.png)
+![[assets/posts/20180928/4.png]]
 
 - import 최적화 체크
 - 자동 import 옵션 체크
@@ -53,4 +53,4 @@ date: 2018-09-28
 - `Editor -> Code Style -> Java`
 - import Layout
 
-![No Image](/assets/posts/20180928/5.png)
+![[assets/posts/20180928/5.png]]

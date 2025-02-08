@@ -6,7 +6,7 @@ tags:
 date: 2018-04-11
 ---
 
-![No Image](/assets/logo/Java.jpg)
+![[assets/logo/Java.jpg]]
 
 # Annotation
 - Java 5부터 등장한 기능입니다.
@@ -189,7 +189,7 @@ public class Main {
 
 ### 결과물
 - 기존의 Method에는 `"Hello! Nesoy"`만 있었지만 Annotation으로 인해 `I'm Annotation`이 먼저 출력되었습니다.
-![No Image](/assets/posts/20180411/1.png)
+![[assets/posts/20180411/1.png]]
 
 ## Reference
 - <http://www.nextree.co.kr/p5864/>

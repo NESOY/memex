@@ -3,7 +3,7 @@ title: Java의 HashMap에 대해
 date: 2018-08-07
 ---
 
-![No Image](/assets/logo/algorithm.png)
+![[assets/logo/algorithm.png]]
 
 > 가장 자주 사용하는 자료구조인 HashMap에 대해 더 깊이 이해하기 위해 작성합니다.
 
@@ -17,7 +17,7 @@ date: 2018-08-07
 
 
 ## HashMap에 대해
-![No Image](/assets/posts/20180807/1.png)
+![[assets/posts/20180807/1.png]]
 
 - Key값을 Hash Function을 통해 HashCode를 얻어 해당 Bucket에 Value를 저장하는 형태입니다.
 
@@ -43,7 +43,7 @@ date: 2018-08-07
 > 최상의 선택은 Hashing이 될 자료의 특성을 이해하는 것입니다.
 
 ## Direct-Address Tables
-![No Image](/assets/posts/20180807/2.png)
+![[assets/posts/20180807/2.png]]
 - 키의 전체 개수와 동일한 크기의 버킷을 가지고 있습니다.
 
 ### 문제점은 없을까요?
@@ -54,7 +54,7 @@ date: 2018-08-07
 - load factor > 1 인 경우에는 Hash Collision이 발생합니다.
 
 #### Java8의 HashMap Load Factor
-![No Image](/assets/posts/20180807/3.png)
+![[assets/posts/20180807/3.png]]
 
 ## 충돌을 해결하기 위해서는?
 ### Dynamic resizing
@@ -65,14 +65,14 @@ date: 2018-08-07
 - 데이터 개수가 충분히 적다면 Open Addressing이 Separate Chaining보다 더 성능이 좋습니다.
 
 #### Linear Probing
-![No Image](/assets/posts/20180807/4.png)
+![[assets/posts/20180807/4.png]]
 - 충돌이 발생한 경우에 일정 Offset 간격으로 Bucket으로 접근하여 Search, Insert를 진행합니다.
   - 구현은 매우 쉬운 장점이 있습니다.
   - Value가 특정 Area로 모이게 되는 Clustering이 발생할 수 있습니다.
   - 평균 검색 시간은 점점 증가하게 됩니다.
 
 #### Quadratic Probing
-![No Image](/assets/posts/20180807/5.png)
+![[assets/posts/20180807/5.png]]
 - Linear Probing을 해결하기 위해 2차식과 관련된 Offset으로 접근합니다.
   - Linear Probing보다 가벼운 Clustering이 발생합니다.
   - 초기 Hashing값이 동일한 경우에는 충돌이 발생하는 문제가 있습니다.
@@ -82,7 +82,7 @@ date: 2018-08-07
   - Cluserting 문제를 해결할 수 있습니다.
 
 ### Seperate Chaining With LinkedList
-![No Image](/assets/posts/20180807/6.png)
+![[assets/posts/20180807/6.png]]
 - 충돌이 발생하게 되면 LinkedList로 결과값으로 값을 저장합니다.
 - LinkedList의 특성상 최악의 경우 O(N)이기 때문에 Red-Black Tree와 같은 다른 자료구조를 사용하는 경우도 있습니다.
 

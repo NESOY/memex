@@ -5,7 +5,7 @@ tags:
 date: 2019-05-10
 ---
 
-![NO Image](/assets/logo/design-pattern.jpg)
+![[assets/logo/design-pattern.jpg]]
 
 
 ## GRASP Pattern이란?
@@ -37,7 +37,7 @@ date: 2019-05-10
     - 서브시스템의 어떤 객체를 수정할 경우, 외부에 주는 충격이 크게 된다.
     - 서브시스템을 사용하는 입장에서 보면, 이 Controller 객체만 알고 있으면 되므로 사용하기 쉽다.
 
-![](/assets/posts/img/2019-05-09-20-58-44.png)
+![[assets/posts/img/2019-05-09-20-58-44.png]]
 
 #### [Low Coupling](https://en.wikipedia.org/wiki/Loose_coupling)
 - 객체들간, 서브 시스템들간의 상호의존도가 낮게 책임을 부여.

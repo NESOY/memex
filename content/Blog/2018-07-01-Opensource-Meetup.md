@@ -5,9 +5,9 @@ tags:
 date: 2018-07-01
 ---
 
-![No Image](/assets/posts/20180701/1.png)
-![No Image](/assets/posts/20180701/2.png)
-![No Image](/assets/posts/20180701/3.png)
+![[assets/posts/20180701/1.png]]
+![[assets/posts/20180701/2.png]]
+![[assets/posts/20180701/3.png]]
 
 # 회색지대 - 이상과 현실 - 오픈소스 저작권 신정규님
 - Microsoft가 Github를 인수

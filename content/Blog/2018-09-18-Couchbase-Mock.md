@@ -3,7 +3,7 @@ title: Couchbase Mock으로 쉽게 테스트하기
 date: 2018-09-18
 ---
 
-![No Image](/assets/logo/couchbase.png)
+![[assets/logo/couchbase.png]]
 
 ## 들어가며
 - Couchbase Repository의 Test Code는 적재된 Data에 의존성이 매우 높았습니다.

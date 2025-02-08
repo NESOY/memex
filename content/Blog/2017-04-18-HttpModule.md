@@ -6,7 +6,7 @@ tags:
 date: 2017-04-18
 ---
 
-![No Image](/assets/posts/20170413/1.PNG)
+![[assets/posts/20170413/1.PNG]]
 
 ## HTTP Module
 - `var http = require('http');`

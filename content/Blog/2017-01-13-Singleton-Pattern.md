@@ -6,7 +6,7 @@ tags:
 date: 2017-01-13
 ---
 
-![NO Image](/assets/logo/design-pattern.jpg)
+![[assets/logo/design-pattern.jpg]]
 
 # **Singleton Pattern**
 

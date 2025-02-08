@@ -5,7 +5,7 @@ tags:
 date: 2018-05-24
 ---
 
-![No Image](/assets/logo/oop.png)
+![[assets/logo/oop.png]]
 
 ## 객체 지향 프로그래밍(Object-Oriented Programming)이란?
 ### 추상화(Abstraction)

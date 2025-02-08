@@ -5,7 +5,7 @@ tags:
   - NodeJs
 date: 2017-04-15
 ---
-![No Image](/assets/posts/20170413/1.PNG)
+![[assets/posts/20170413/1.PNG]]
 
 ## 스트림(Stream)
 ### 스트림 : 데이터의 전송 흐름

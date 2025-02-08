@@ -5,7 +5,7 @@ tags:
 date: 2019-01-23
 ---
 
-![No Image](/assets/logo/couchbase.png)
+![[assets/logo/couchbase.png]]
 
 
 ## CAS(Check & Set) 값이란?
@@ -16,7 +16,7 @@ date: 2019-01-23
 
 ### Example
 
-![No Image](/assets/posts/20190123/1.png)
+![[assets/posts/20190123/1.png]]
 
 - Step 1 : 클라이언트 A가 문서를 읽습니다.
 - Step 2 : 클라이언트 A는 문서의 값을 **1 증가** 시킵니다.

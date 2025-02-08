@@ -5,7 +5,7 @@ tags:
 date: 2019-10-11
 ---
 
-![No Image](/assets/logo/hbase.png)
+![[assets/logo/hbase.png]]
 
 ## 들어가며
 - Hbase를 활용하기 위해서는 Key 설계가 무엇보다 중요하다.
@@ -13,7 +13,7 @@ date: 2019-10-11
 
 ## Hbase Key Design에 대해
 ### Hbase가 데이터를 어떻게 저장할까?
-![](/assets/posts/img/2019-10-10-18-10-41.png)
+![[assets/posts/img/2019-10-10-18-10-41.png]]
 
 - 왼쪽 상단의 그림은 데이터를 논리적으로 표현한 그림이다.
   - `Row`와 `Column[Family:Qualifier]`로 구성된 모습이다.
@@ -23,7 +23,7 @@ date: 2019-10-11
   - `Null값`을 저장하지 않기 때문에 `RowKey`, `Column 정보`를 포함하여 저장한다.
 
 ### 원하는 데이터를 얻기 위해서는?
-![](/assets/posts/img/2019-10-10-18-34-29.png)
+![[assets/posts/img/2019-10-10-18-34-29.png]]
 
 - 오른쪽으로 갈수록 Scan 범위가 커지는 점을 알 수 있다.
   - Performance가 안좋아진다.
@@ -31,7 +31,7 @@ date: 2019-10-11
 - `Column-Qualifier` 단위의 조건은 성능상 이점은 크게 없다.
 
 ### 그럼 어떤 형태로 설계하여 저장해야할까?
-![](/assets/posts/img/2019-10-10-19-23-28.png)
+![[assets/posts/img/2019-10-10-19-23-28.png]]
 
 - 두 종류의 테이블이 있다.
   - 왼쪽 : `userID : colfam : messageID : timestamp : emali-message`

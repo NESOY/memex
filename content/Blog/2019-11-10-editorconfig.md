@@ -4,7 +4,7 @@ tags:
   - 개발환경
 date: 2019-11-10
 ---
-![](/assets/posts/img/2019-11-10-21-02-28.png)
+![[assets/posts/img/2019-11-10-21-02-28.png]]
 
 ## 들어가며
 > 오픈소스를 보면서 많은 개발자들이 일정한 Convention을 어떻게 유지할 수 있는 방법에 대한 좋은 가이드가 있어 공유합니다.
@@ -56,10 +56,10 @@ indent_size = 4
 - root
 
 #### 플러그인 없이 지원가능한 Editor
-![](/assets/posts/img/2019-11-10-21-12-36.png)
+![[assets/posts/img/2019-11-10-21-12-36.png]]
 
 #### 플러그인 설치해야 지원가능한 Editor
-![](/assets/posts/img/2019-11-10-21-12-48.png)
+![[assets/posts/img/2019-11-10-21-12-48.png]]
 
 ## Reference
 - <https://editorconfig.org/>

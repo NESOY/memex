@@ -5,7 +5,7 @@ tags:
 date: 2018-05-08
 ---
 
-![No Image](/assets/posts/20180503/refactoring.jpg)
+![[assets/posts/20180503/refactoring.jpg]]
 
 # 냄새 원인
 ## 중복된 코드(Duplicated Code)

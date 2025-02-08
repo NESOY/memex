@@ -5,7 +5,7 @@ tags:
 date: 2019-08-12
 ---
 
-![No Image](/assets/logo/Java.jpg)
+![[assets/logo/Java.jpg]]
 
 ## JVM (Oracle) Options
 

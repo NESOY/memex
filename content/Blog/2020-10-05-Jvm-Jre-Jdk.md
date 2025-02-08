@@ -5,7 +5,7 @@ tags:
 date: 2020-10-05
 ---
 
-![No Image](/assets/logo/Java.jpg)
+![[assets/logo/Java.jpg]]
 
 ## JVM, JRE, JDK에 대해
 ### JVM(Java Virtual Machine)

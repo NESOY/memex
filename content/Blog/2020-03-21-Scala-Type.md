@@ -5,10 +5,10 @@ tags:
 date: 2020-03-21
 ---
 
-![No Image](/assets/logo/scala.png)
+![[assets/logo/scala.png]]
 
 ## Scala Type에 대해
-![](/assets/posts/img/2020-03-21-17-36-32.png)
+![[assets/posts/img/2020-03-21-17-36-32.png]]
 
 #### Any
 - 모든 타입의 가장 상위 타입을 의미한다.

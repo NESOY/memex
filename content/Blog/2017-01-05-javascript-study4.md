@@ -7,7 +7,7 @@ date: 2017-01-05
 ---
 
 # **Javascript**
-![No Image](/assets/logo/javascript.png)
+![[assets/logo/javascript.png]]
 
 - #### Function 타입
   - 함수는 객체이다.

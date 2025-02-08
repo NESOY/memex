@@ -5,10 +5,10 @@ tags:
 date: 2019-01-12
 ---
 
-![No Image](/assets/logo/elastic.png)
+![[assets/logo/elastic.png]]
 
 ## [Elastic Search Config](https://www.elastic.co/guide/en/elasticsearch/reference/current/settings.html)
-![No Image](/assets/posts/20190112/1.png)
+![[assets/posts/20190112/1.png]]
 
 ### [`jvm.options`](https://www.elastic.co/guide/en/elasticsearch/reference/current/jvm-options.html)
 - 자바 메모리 옵션은 메모리 용량이 변경되는 불필요한 오버헤드를 방지하기 위해
@@ -57,11 +57,11 @@ date: 2019-01-12
     - Query가 2초 이상 소요되었을때 Debug Level의 로그를 기록한다.
 
 #### cluster 정보 확인
-![No Image](/assets/posts/20190112/2.png)
+![[assets/posts/20190112/2.png]]
 
 > curl -XGET http://localhost:9200/_cluster/stats\?pretty=true
 
-![No Image](/assets/posts/20190112/3.png)
+![[assets/posts/20190112/3.png]]
 
 
 

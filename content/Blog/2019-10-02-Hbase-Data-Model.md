@@ -5,10 +5,10 @@ tags:
 date: 2019-10-02
 ---
 
-![No Image](/assets/logo/hbase.png)
+![[assets/logo/hbase.png]]
 
 ## Hbase Data Model에 대해
-![](/assets/posts/img/2019-10-02-13-39-21.png)
+![[assets/posts/img/2019-10-02-13-39-21.png]]
 - Hbase는 Data를 Table 형태로 저장한다.
 
 ### Tables
@@ -50,7 +50,7 @@ date: 2019-10-02
 
 ## Example
 ### 논리적인 모습
-![](/assets/posts/img/2019-10-02-16-11-07.png)
+![[assets/posts/img/2019-10-02-16-11-07.png]]
 - 중간중간 빈 공간을 볼 수 있다.
 - 하지만 실제로 저장할때에는 빈 공간은 생기지 않는다.
 
@@ -86,11 +86,11 @@ date: 2019-10-02
 
 #### column Family : anchor
 
-![](/assets/posts/img/2019-10-02-16-15-32.png)
+![[assets/posts/img/2019-10-02-16-15-32.png]]
 
 #### column Family : contents
 
-![](/assets/posts/img/2019-10-02-16-15-45.png)
+![[assets/posts/img/2019-10-02-16-15-45.png]]
 
 
 ## Reference

@@ -5,7 +5,7 @@ tags:
 date: 2019-06-04
 ---
 
-![No Image](/assets/logo/os.jpg)
+![[assets/logo/os.jpg]]
 
 
 ## Busy Waiting이란?

@@ -6,7 +6,7 @@ tags:
 date: 2017-03-06
 ---
 
-![No Image](/assets/logo/web.jpg)
+![[assets/logo/web.jpg]]
 
 > Spring의 JSP나 Springboot의 Thymeleaf등등 Template에 대해 역할 궁금하여 찾아본 결과 Web Template System의 Engine이란 걸 알았다. Web Template System에 대해 정리하고 또 기억하기 위해 포스팅을 한다.
 
@@ -17,7 +17,7 @@ date: 2017-03-06
 
 ## 템플릿 시스템(Template System)의 구성요소
 
-![No Image](/assets/posts/20170306/1.PNG)
+![[assets/posts/20170306/1.PNG]]
 
 - 템플릿 엔진(Template Engine)
 - 템플릿 자료(Template Resource) : 템플릿 언어로 작성된 웹 템플릿
@@ -38,7 +38,7 @@ date: 2017-03-06
 - Static Web Page만을 생성한다.
 - OutSider Server의 대표적인 예시이다.
 
-![No Image](/assets/posts/20170306/2.PNG)
+![[assets/posts/20170306/2.PNG]]
 
 ## Server-side Systems
 
@@ -50,7 +50,7 @@ date: 2017-03-06
 - Browser에서 XSLT 스타일시트를 적용하여 XML의 데이터를 XHTML로 바꿀 수 있다.
 - Javascript를 이용하여 템플릿을 구성하기도 한다.
 
-![No Image](/assets/posts/20170306/3.PNG)
+![[assets/posts/20170306/3.PNG]]
 
 ## 참조
 

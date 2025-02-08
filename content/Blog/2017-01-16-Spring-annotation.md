@@ -6,7 +6,7 @@ tags:
 date: 2017-01-16
 ---
 
-![NO Image](/assets/logo/spring.png)
+![[assets/logo/spring.png]]
 
 # **Spring Annotation**
 - @Required, @Autowired, @Qulifier, @Resource
