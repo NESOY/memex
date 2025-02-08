@@ -1,5 +1,8 @@
 ---
-comments: 
 title: 
-alias:
+comments: 
+aliases: 
+tags: 
+date: 
+description:
 ---
