@@ -5,3 +5,4 @@ aliases: []
 ---
 # NESOY
 - [[About]]
+- [[Tags]]
