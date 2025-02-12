@@ -1,12 +1,9 @@
 ---
-title: Variance이란?
-tags:
-  - language
+title: Variance
+tags: [language]
 date: 2021-05-13
-aliases: 
-  - ../articles/2021-05/variance
+aliases: [../articles/2021-05/variance]
 ---
-
 ## 들어가며
 - 제네릭을 다루게 되면 매번봐도 이해가 잘 안되는 단어들이 매번 등장한다.
     - 변성, 공변, 반공변, 그리고 무공변

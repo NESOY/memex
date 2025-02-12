@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.RecentNotes({ showTags: false , limit: 10}),
+    Component.DesktopOnly(Component.RecentNotes({ showTags: false , limit: 10})),
   ],
   right: [
     Component.Graph(),
@@ -56,7 +56,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.RecentNotes({ showTags: false , limit: 10}),
+    Component.DesktopOnly(Component.RecentNotes({ showTags: false , limit: 10})),
   ],
   right: [],
 }
